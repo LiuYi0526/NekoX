@@ -39,7 +39,7 @@
 	url = https://github.com/google/re2.git
 [submodule "v2ray"]
 	path = v2ray
-	url = https://github.com/SagerNet/AndroidLibV2rayLite.git
+	url = https://github.com/2dust/AndroidLibV2rayLite.git
 [submodule "nekox-sing-box/sing-box"]
 	path = nekox-sing-box/sing-box
 	url = https://github.com/SagerNet/sing-box.git
